@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827167129160",
+    "project_id": "storyfont-415be",
+    "storage_bucket": "storyfont-415be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827167129160:android:1590b25e7d0e8af0b8627d",
+        "android_client_info": {
+          "package_name": "com.storyfont.app.storyfont"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7cH2cU7NUlq4EcTP73PYrM2Gx4ZNi_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
