@@ -132,10 +132,3 @@ Pull requests and feature suggestions are welcome!
 ---
 
 **© 2025 Navid Farahmandian — All rights reserved**
-
-```
-
----
-
-Let me know if you'd like to auto-generate a `pubspec.yaml` summary or export this as a `.md` file for upload.
-```
